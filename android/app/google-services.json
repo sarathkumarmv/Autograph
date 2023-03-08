@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "6805609438",
+    "project_id": "autograph-a508b",
+    "storage_bucket": "autograph-a508b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6805609438:android:e2b669fcad35540249db4f",
+        "android_client_info": {
+          "package_name": "com.example.autograph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6805609438-pdnago5i86q43ohj8peco6961qf5jrt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADhMcFWcOJJ8D1e72JDvIfGBNm0xOfwhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6805609438-pdnago5i86q43ohj8peco6961qf5jrt6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6805609438-qd06c16o3pjpdhpij496krfosp33ts6i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.autograph"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
